@@ -1,0 +1,19 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.referencedLibraries": [
+    "dependency/mysql-connector-j-8.3.0.jar"
+  ],
+  "files.exclude": {
+    "**/.git": false,
+    "**/.svn": false,
+    "**/.hg": false,
+    "**/CVS": false
+  },
+  "cSpell.words": [
+    "Exitable",
+    "FIRSTNAME",
+    "JDBC"
+  ]
+}
